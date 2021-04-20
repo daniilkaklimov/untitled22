@@ -1,5 +1,5 @@
 package com.company;
-
+//
 public class Robot implements Actions {
     private String name;
     private int runDistance;

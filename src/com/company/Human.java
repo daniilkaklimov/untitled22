@@ -1,5 +1,5 @@
 package com.company;
-
+//
 public class Human implements Actions {
     private String name;
     private int runDistance;

@@ -1,5 +1,5 @@
 package com.company;
-
+//
 public abstract class Barrier {
     private String name;
 

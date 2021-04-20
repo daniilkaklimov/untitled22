@@ -1,5 +1,5 @@
 package com.company;
-
+//
 public class Wall extends Barrier {
     private int height;
 
